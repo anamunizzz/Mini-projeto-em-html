@@ -1,0 +1,3 @@
+Este projeto demonstra o uso básico de **HTML5** para estruturar páginas web simples. Ele inclui exemplos de **títulos**, **parágrafos**, **links** (com e sem abertura em nova aba), e **imagens**.
+Também explora a criação de **listas ordenadas e não ordenadas**, além de formatação de texto com **negrito** e **itálico**. 
+As páginas foram projetadas para ensinar a estrutura básica de um site, incluindo um **menu de navegação**, **seções de conteúdo** com textos explicativos e imagens, e um **rodapé** com direitos autorais. O objetivo é introduzir os conceitos fundamentais de HTML5 e demonstrar como criar um site simples e funcional.
